@@ -25,7 +25,7 @@ export default function SecaoFormacao() {
       icone: "fas fa-award",
       titulo: "Atualização Contínua",
       instituicao: "Cursos e Congressos Nacionais e Internacionais",
-      ano: "2015-2024",
+      ano: "2015-2026",
       descricao: "Participação regular em eventos científicos para manter-se atualizado com as mais recentes técnicas e tecnologias em odontologia."
     }
   ];

@@ -66,7 +66,7 @@ export default function Rodape() {
           {/* Linha final compacta */}
           <div className="border-t border-white/10 pt-4">
             <div className="text-center text-white/50 text-xs font-body">
-              © 2024 Dr. Rodrigo Vieira Pacheco • Todos os direitos reservados • CRO-ES Ativo
+              © 2026 Dr. Rodrigo Vieira Pacheco • Todos os direitos reservados • CRO-ES Ativo
             </div>
           </div>
         </div>
