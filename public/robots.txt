@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://rodrigovieirapacheco.com.br/sitemap.xml
+
+# Disallow admin areas (if any in the future)
+Disallow: /admin/
+Disallow: /private/
+
+# Allow important pages for SEO
+Allow: /#sobre
+Allow: /#formacao
+Allow: /#procedimentos
+Allow: /#contato
